@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsCheckSample", "FsCheckSample\FsCheckSample.fsproj", "{BF065FFD-37F8-4D3C-BA19-B6E71BF5B30F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{747C8911-487A-4991-BB46-DE2F2DD0DCF1}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF065FFD-37F8-4D3C-BA19-B6E71BF5B30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF065FFD-37F8-4D3C-BA19-B6E71BF5B30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF065FFD-37F8-4D3C-BA19-B6E71BF5B30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF065FFD-37F8-4D3C-BA19-B6E71BF5B30F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
